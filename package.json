@@ -20,6 +20,7 @@
     "gatsby-source-filesystem": "^2.3.31",
     "gatsby-transformer-remark": "^2.8.36",
     "gatsby-transformer-sharp": "^2.5.16",
+    "gh-pages": "^3.1.0",
     "prismjs": "^1.21.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -39,6 +40,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/carlosvega20/blog_teatroautomovil.git"
   }
 }
