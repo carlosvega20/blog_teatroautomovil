@@ -7,6 +7,7 @@ node_js:
 script:
   - echo "skipping tests"
 
+install: true
 deploy:
   provider: script
   script: cd docs/ && yarn install && yarn run deploy
