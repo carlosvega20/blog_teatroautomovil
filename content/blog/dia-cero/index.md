@@ -3,7 +3,7 @@ title: Cocktail Día Cero
 date: "2020-09-30T22:12:03.284Z"
 description: "Cóctel desde el inframundo de día cero."
 author: Carlos Vega
-summary: dsfs ddf sdf sdf d
+summary: Experto en hablar por horas
 ---
 
 ![Cocktail Día Cero](./cocktail.jpg)
