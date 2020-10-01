@@ -29,5 +29,5 @@ Charly Restrepo con la ayuda de ## quicieron crear un cocktail unico el cual sor
 
 ### Preparación
 
-1. Usa una Copa
+1. Usa una Copa.
 2. ....
