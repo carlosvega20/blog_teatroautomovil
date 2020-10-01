@@ -10,7 +10,8 @@ script:
 install: true
 deploy:
   provider: script
-  script: yarn install && yarn run deploy
+  script: cd docs/ && yarn install && yarn run deploy
+  fqdn: hola.teatroautomovil.com
   skip_cleanup: true
   on:
     branch: master
