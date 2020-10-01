@@ -10,7 +10,7 @@ summary: Experto en hablar por horas
 
 Hoy fue un día para celebrar nuestra unión como equipo y recordar a tantas personas que sufren actualmente por Covid-19 y las secuelas que ha dejado.
 
-Charly Restrepo con la ayuda de ## quicieron crear un cocktail unico.
+Charly Restrepo con la ayuda de ## quicieron crear un cocktail unico el cual sorprendio a todo el equipo.
 
 
 
